@@ -1,17 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=180&section=header&text=João%20Vitor%20Cassiano&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=Do%20marketing%20ao%20código%20—%20construindo%20soluções%20que%20importam&descSize=14&descAlignY=55&animation=fadeIn"/>
 
 <div align="center">
 
-<!-- TYPING SVG - NAME -->
-<a href="https://github.com/joaocnds">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Vitor+Cassiano" alt="Name" />
-</a>
-
-<br/>
-
 <!-- TYPING SVG - SUBTITLE -->
 <a href="https://github.com/joaocnds">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=800&color=8B949E&center=true&vCenter=true&random=false&width=560&lines=Software+Engineering+Student+%F0%9F%8E%93;Marketing+Digital+%40+Dentsply+Sirona+%F0%9F%8F%A2;React+Native+%7C+Java+%7C+Python+%7C+n8n+%F0%9F%9B%A0%EF%B8%8F;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%A1;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=800&color=8B949E&center=true&vCenter=true&random=false&width=560&lines=Software+Engineering+Student+%F0%9F%8E%93;Marketing+Digital+%40+Dentsply+Sirona+%F0%9F%8F%A2;React+Native+%7C+Java+%7C+Python+%7C+n8n+%F0%9F%9B%A0%EF%B8%8F;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%A1;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -57,6 +50,41 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
+<!-- JOURNEY -->
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Travel%20and%20places/Milky%20Way.png" width="28" /> &nbsp;Minha jornada
+
+```
+📌 2021 ─── Início na ETEC
+│            Primeiro contato com programação
+│            Java, lógica, banco de dados
+│
+├─── 56 projetos acadêmicos ao longo de 3 anos
+│    ├── Web: HTML, CSS, JS, PHP
+│    ├── Desktop: Java Swing, JDBC
+│    ├── Mobile: React Native
+│    ├── Banco de dados: MySQL, SQL Server
+│    └── Automação: scripts, bots, APIs
+│
+📌 2023 ─── Marketing Digital @ Dentsply Sirona
+│            Gestão de campanhas Brasil & LatAm
+│            Descobri automação com n8n e APIs
+│            Ponte entre marketing e tecnologia
+│
+📌 2024 ─── Engenharia de Software (graduação)
+│            Foco em desenvolvimento full-cycle
+│            Primeiros projetos autorais publicados
+│
+📌 2025 ─── Construindo portfólio público
+│            Open source, mobile apps, automações com IA
+│            Buscando primeira oportunidade em tech
+│
+🔮 Próximo ─ Contribuir em projetos open source
+             Aprofundar em arquitetura de software
+             Transição completa para engenharia
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+
 <!-- TECH STACK -->
 ## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
@@ -80,12 +108,28 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
 |:-----|:-----:|:---------|
 | **Java** | ⭐⭐⭐⭐ | 56 projetos acadêmicos, OOP avançado, JDBC, Swing |
 | **HTML/CSS/JS** | ⭐⭐⭐⭐ | Projetos web completos, responsivos |
+| **SQL** | ⭐⭐⭐⭐ | MySQL, SQL Server, modelagem, procedures |
 | **React Native** | ⭐⭐⭐ | App Treino & Saúde com Expo + TypeScript |
 | **Python** | ⭐⭐⭐ | Automações, scripts, integração com APIs |
 | **n8n** | ⭐⭐⭐ | Workflows de automação financeira + WhatsApp |
-| **SQL** | ⭐⭐⭐⭐ | MySQL, SQL Server, modelagem, procedures |
 | **PHP** | ⭐⭐⭐ | Backend web, formulários, integração BD |
-| **TypeScript** | ⭐⭐ | Em aprendizado, usado no Treino & Saúde |
+| **TypeScript** | ⭐⭐ | Em aprendizado ativo, usado no Treino & Saúde |
+
+</details>
+
+<details>
+<summary><b>🎯 O que estou aprendendo agora (Nov 2026)</b></summary>
+
+<br/>
+
+| Área | Foco | Status |
+|:-----|:-----|:------:|
+| **Mobile** | React Native + Expo — navegação, estado, APIs | 🟢 Em andamento |
+| **Tipagem** | TypeScript — types, interfaces, generics | 🟡 Intermediário |
+| **Dados** | Python — pandas, automações, web scraping | 🟡 Intermediário |
+| **Cloud** | Supabase — auth, realtime, edge functions | 🔵 Explorando |
+| **DevOps** | Docker — containers, compose, deploy | 🔵 Explorando |
+| **IA** | OpenAI API — integração em fluxos n8n | 🟢 Em andamento |
 
 </details>
 
@@ -115,6 +159,19 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
+<details>
+<summary><sub>🔍 Funcionalidades</sub></summary>
+<sub>
+
+- Login diferenciado (user/admin)
+- Abertura de chamados com categorias
+- Classificação automática por keywords
+- Dashboard com métricas e filtros
+- Interface responsiva
+
+</sub>
+</details>
+
 </td>
 <td width="50%">
 
@@ -133,6 +190,19 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
+
+<details>
+<summary><sub>🔍 Funcionalidades</sub></summary>
+<sub>
+
+- Plano de treino personalizado
+- Registro de refeições com macros
+- Controle de hidratação diário
+- Medidas corporais com gráficos
+- Coach semanal com metas e feedback
+
+</sub>
+</details>
 
 </td>
 </tr>
@@ -155,6 +225,19 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
+<details>
+<summary><sub>🔍 Funcionalidades</sub></summary>
+<sub>
+
+- Cadastro de assinaturas recorrentes
+- Alertas automáticos via WhatsApp
+- Análise de gastos com OpenAI
+- Dashboard financeiro em tempo real
+- Workflow n8n com triggers agendados
+
+</sub>
+</details>
+
 </td>
 <td width="50%">
 
@@ -173,6 +256,59 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
   <img src="https://img.shields.io/badge/56_projetos-58a6ff?style=flat-square" />
   <img src="https://img.shields.io/badge/3_anos-8b949e?style=flat-square" />
 </p>
+
+<details>
+<summary><sub>🔍 Destaques do acervo</sub></summary>
+<sub>
+
+- **Java:** POO, herança, interfaces, JDBC, Swing
+- **Web:** Sites responsivos, formulários, APIs
+- **PHP:** CRUD, sessões, integração MySQL
+- **Mobile:** Apps React Native com Expo
+- **SQL:** Modelagem, procedures, triggers
+- **Automação:** Bots, web scraping, scripts
+
+</sub>
+</details>
+
+</td>
+</tr>
+</table>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+
+<!-- WHAT I BRING -->
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;O que eu trago de diferente
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Megaphone.png" width="40" />
+
+**Visão de Marketing**
+
+<sub>3+ anos criando campanhas digitais para Brasil & LatAm. Entendo o usuário final, métricas de conversão e como produto e marketing se conectam.</sub>
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Gear.png" width="40" />
+
+**Mentalidade de Automação**
+
+<sub>Automatizo tudo que é repetitivo. Construo workflows com n8n, integro APIs e uso IA para processos que antes eram manuais.</sub>
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Travel%20and%20places/Rocket.png" width="40" />
+
+**Projetos Reais**
+
+<sub>Não construo só exercícios — cada projeto resolve um problema real: gestão de TI, saúde pessoal, controle financeiro.</sub>
 
 </td>
 </tr>
@@ -214,17 +350,15 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 <!-- SNAKE -->
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Graph
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaocnds/joaocnds/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaocnds/joaocnds/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/joaocnds/joaocnds/output/github-snake.svg" width="100%" />
+    <img alt="Snake animation eating contribution graph" src="https://raw.githubusercontent.com/joaocnds/joaocnds/output/github-snake.svg" width="100%" />
   </picture>
 </div>
-
-> _A cobrinha aparece após o primeiro run do GitHub Actions (automático no push)._
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
@@ -233,6 +367,21 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+
+<!-- METRICS -->
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Abacus.png" width="28" /> &nbsp;Em números
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Books.png" width="24" /> **56** projetos acadêmicos | <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Laptop.png" width="24" /> **8** tecnologias no stack |
+| <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="24" /> **2** países de atuação (BR & LatAm) | <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Graduation%20Cap.png" width="24" /> **3** anos de formação técnica |
+| <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Travel%20and%20places/Rocket.png" width="24" /> **4** projetos autorais publicados | <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Gear.png" width="24" /> **1** automação com IA em produção |
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
@@ -258,4 +407,4 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=120&section=footer"/>
