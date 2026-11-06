@@ -34,7 +34,7 @@
 ```yaml
 name: "João Vitor Cassiano"
 location: "São Paulo, BR 🇧🇷"
-company: "Dentsply Sirona — Marketing Digital (Brasil & LatAm)"
+company: "Dentsply Sirona — Marketing Digital"
 education: "Engenharia de Software 🎓"
 interests:
   - "Web & Mobile Development"
@@ -75,8 +75,11 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
 │               Formado em Desenvolvimento de Sistemas
 │
 📌 Mar 2026 ── Marketing Digital @ Dentsply Sirona
-│               Gestão de campanhas Brasil & LatAm
-│               Ponte entre marketing e tecnologia
+│               Gestão de 5 contas (Instagram, YouTube, Facebook)
+│               Agendamento de conteúdos digitais + conta LatAm
+│               Salesforce & CIM360 — cadastro e verificação
+│               Desenvolvendo MIS Next (plataforma interna)
+│               Início em landing pages e campanhas de mídia
 │
 📌 Ago 2026 ── Engenharia de Software (graduação)
 │               Foco em desenvolvimento full-cycle
@@ -298,7 +301,7 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
 
 **Visão de Marketing**
 
-<sub>3+ anos criando campanhas digitais para Brasil & LatAm. Entendo o usuário final, métricas de conversão e como produto e marketing se conectam.</sub>
+<sub>Gerencio 5 contas de redes sociais na Dentsply Sirona, incluindo a conta LatAm. Entendo o usuário final, fluxo de conteúdo e como marketing e produto se conectam.</sub>
 
 </td>
 <td width="33%" align="center">
@@ -316,7 +319,7 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
 
 **Projetos Reais**
 
-<sub>Não construo só exercícios — cada projeto resolve um problema real: gestão de TI, saúde pessoal, controle financeiro.</sub>
+<sub>Não construo só exercícios — cada projeto resolve um problema real: gestão de TI, saúde pessoal, controle financeiro e até uma plataforma interna para a empresa.</sub>
 
 </td>
 </tr>
