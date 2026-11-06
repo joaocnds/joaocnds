@@ -38,22 +38,9 @@
 
 <br/>
 
-```yaml
-name: "João Vitor Cassiano"
-location: "São Paulo, BR 🇧🇷"
-company: "Dentsply Sirona — Marketing Digital"
-education: "Engenharia de Software 🎓"
-interests:
-  - "Web & Mobile Development"
-  - "Data Engineering & Analytics"
-  - "Process Automation"
-  - "AI-Powered Solutions"
-currently_learning:
-  - "React Native + Expo"
-  - "TypeScript"
-  - "Python para dados"
-fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
-```
+<div align="center">
+  <img src="./assets/about-me.svg" width="95%" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:6e40c9,100:0d1117&height=80&section=footer&fontSize=0"/>
 
