@@ -33,7 +33,7 @@
 ---
 
 <!-- ABOUT -->
-## :technologist: &nbsp;Sobre mim
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;Sobre mim
 
 ```yaml
 name: João Vitor Cassiano
@@ -47,7 +47,7 @@ currently_learning: [React Native, TypeScript, Python]
 ---
 
 <!-- TECH STACK -->
-## :hammer_and_wrench: &nbsp;Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
 
@@ -86,7 +86,7 @@ currently_learning: [React Native, TypeScript, Python]
 ---
 
 <!-- PROJECTS -->
-## :rocket: &nbsp;Projetos em destaque
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Projetos em destaque
 
 <div align="center">
 <table>
@@ -163,7 +163,7 @@ currently_learning: [React Native, TypeScript, Python]
 ---
 
 <!-- STATS -->
-## :bar_chart: &nbsp;GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaocnds&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
