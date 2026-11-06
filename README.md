@@ -61,6 +61,7 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
 📌 Ago 2024 ── Início na ETEC
 │               Técnico em Desenvolvimento de Sistemas
 │               Java, lógica, banco de dados, PHP, mobile
+│               Android Studio (apps nativos)
 │               Descobri automação com n8n e APIs
 │
 ├─── Projetos acadêmicos ao longo do curso
