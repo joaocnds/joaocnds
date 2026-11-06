@@ -54,33 +54,40 @@ fun_fact: "Comecei no marketing, mas o código me escolheu 🤓"
 ## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Travel%20and%20places/Milky%20Way.png" width="28" /> &nbsp;Minha jornada
 
 ```
-📌 2021 ─── Início na ETEC
-│            Primeiro contato com programação
-│            Java, lógica, banco de dados
+📌 Mar 2024 ── Primeiro contato com programação
+│               Curso de Programação Web no SENAI
+│               HTML, CSS, JavaScript — a faísca acendeu
 │
-├─── 56 projetos acadêmicos ao longo de 3 anos
+📌 Ago 2024 ── Início na ETEC
+│               Técnico em Desenvolvimento de Sistemas
+│               Java, lógica, banco de dados, PHP, mobile
+│               Descobri automação com n8n e APIs
+│
+├─── Projetos acadêmicos ao longo do curso
 │    ├── Web: HTML, CSS, JS, PHP
 │    ├── Desktop: Java Swing, JDBC
 │    ├── Mobile: React Native
 │    ├── Banco de dados: MySQL, SQL Server
-│    └── Automação: scripts, bots, APIs
+│    └── Automação: n8n, scripts, bots, APIs
 │
-📌 2023 ─── Marketing Digital @ Dentsply Sirona
-│            Gestão de campanhas Brasil & LatAm
-│            Descobri automação com n8n e APIs
-│            Ponte entre marketing e tecnologia
+📌 Dez 2025 ── Conclusão da ETEC ✅
+│               Formado em Desenvolvimento de Sistemas
 │
-📌 2024 ─── Engenharia de Software (graduação)
-│            Foco em desenvolvimento full-cycle
-│            Primeiros projetos autorais publicados
+📌 Mar 2026 ── Marketing Digital @ Dentsply Sirona
+│               Gestão de campanhas Brasil & LatAm
+│               Ponte entre marketing e tecnologia
 │
-📌 2025 ─── Construindo portfólio público
-│            Open source, mobile apps, automações com IA
-│            Buscando primeira oportunidade em tech
+📌 Ago 2026 ── Engenharia de Software (graduação)
+│               Foco em desenvolvimento full-cycle
+│               Primeiros projetos autorais publicados
 │
-🔮 Próximo ─ Contribuir em projetos open source
-             Aprofundar em arquitetura de software
-             Transição completa para engenharia
+📌 Agora ───── Construindo portfólio público
+│               Open source, mobile apps, automações com IA
+│               Buscando primeira oportunidade em tech
+│
+🔮 Próximo ─── Contribuir em projetos open source
+               Aprofundar em arquitetura de software
+               Transição completa para engenharia
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
