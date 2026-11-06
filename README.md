@@ -1,14 +1,17 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=João%20Vitor%20Cassiano&fontSize=36&fontColor=58a6ff&fontAlignY=35&desc=Marketing%20%26%20Tech%20%7C%20Software%20Engineering%20Student&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
-
 <!-- TYPING SVG -->
 <a href="https://github.com/joaocnds">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Building+things+that+solve+real+problems;From+marketing+to+software+engineering;React+Native+%7C+Java+%7C+Python+%7C+n8n;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Jo%C3%A3o+Vitor+Cassiano" alt="Name" />
 </a>
 
 <br/>
+
+<a href="https://github.com/joaocnds">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=8B949E&center=true&vCenter=true&random=false&width=520&lines=Building+things+that+solve+real+problems;Marketing+%26+Tech+%7C+Software+Engineering;React+Native+%7C+Java+%7C+Python+%7C+n8n;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/joaocnds">
@@ -27,21 +30,24 @@
 
 </div>
 
+---
+
 <!-- ABOUT -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;Sobre mim
+## :technologist: &nbsp;Sobre mim
 
 ```yaml
 name: João Vitor Cassiano
 location: São Paulo, BR
 company: Dentsply Sirona (Marketing Digital · Brasil & LatAm)
-education: Análise e Desenvolvimento de Sistemas
+education: Engenharia de Software
 interests: [Web Development, Data, Automation, Mobile Apps]
 currently_learning: [React Native, TypeScript, Python]
-goal: Transição para engenharia de software
 ```
 
+---
+
 <!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+## :hammer_and_wrench: &nbsp;Tech Stack
 
 <div align="center">
 
@@ -77,8 +83,10 @@ goal: Transição para engenharia de software
 
 </div>
 
+---
+
 <!-- PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Projetos em destaque
+## :rocket: &nbsp;Projetos em destaque
 
 <div align="center">
 <table>
@@ -152,18 +160,21 @@ goal: Transição para engenharia de software
 </table>
 </div>
 
+---
+
 <!-- STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
+## :bar_chart: &nbsp;GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaocnds&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocnds&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaocnds&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" />
+  <img src="https://streak-stats.demolab.com?user=joaocnds&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" />
 </div>
 
 <br/>
@@ -172,10 +183,7 @@ goal: Transição para engenharia de software
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaocnds&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" />
 </div>
 
-<!-- FOOTER -->
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+---
 
 <div align="center">
   <strong>Aberto a oportunidades em engenharia de software, dados e automação.</strong>
