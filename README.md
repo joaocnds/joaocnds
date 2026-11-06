@@ -54,46 +54,9 @@
 
 <br/>
 
-```
-📌 Mar 2024 ── Primeiro contato com programação
-│               Curso de Programação Web no SENAI
-│               HTML, CSS, JavaScript — a faísca acendeu
-│
-📌 Ago 2024 ── Início na ETEC
-│               Técnico em Desenvolvimento de Sistemas
-│               Java, lógica, banco de dados, PHP, mobile
-│               Android Studio (apps nativos)
-│               Descobri automação com n8n e APIs
-│
-├─── Projetos acadêmicos ao longo do curso
-│    ├── Web: HTML, CSS, JS, PHP
-│    ├── Desktop: Java Swing, JDBC
-│    ├── Mobile: React Native
-│    ├── Banco de dados: MySQL, SQL Server
-│    └── Automação: n8n, scripts, bots, APIs
-│
-📌 Dez 2025 ── Conclusão da ETEC ✅
-│               Formado em Desenvolvimento de Sistemas
-│
-📌 Mar 2026 ── Marketing Digital @ Dentsply Sirona
-│               Gestão de 5 contas (Instagram, YouTube, Facebook)
-│               Agendamento de conteúdos digitais + conta LatAm
-│               Salesforce & CIM360 — cadastro e verificação
-│               Desenvolvendo MIS Next (plataforma interna)
-│               Início em landing pages e campanhas de mídia
-│
-📌 Ago 2026 ── Engenharia de Software (graduação)
-│               Foco em desenvolvimento full-cycle
-│               Primeiros projetos autorais publicados
-│
-📌 Agora ───── Construindo portfólio público
-│               Open source, mobile apps, automações com IA
-│               Buscando primeira oportunidade em tech
-│
-🔮 Próximo ─── Contribuir em projetos open source
-               Aprofundar em arquitetura de software
-               Transição completa para engenharia
-```
+<p align="center">
+  <img src="./assets/journey.svg" alt="Minha jornada — timeline animada" width="850"/>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:1f3d73,100:0d1117&height=80&section=footer&fontSize=0"/>
 
