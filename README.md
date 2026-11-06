@@ -32,7 +32,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:8957e5&height=80&section=header&fontSize=0"/>
 
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="45" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" width="45" align="left" />
 
 ## &nbsp;Sobre mim
 
@@ -175,7 +175,7 @@
 <td width="50%">
 
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20activities/Person%20Lifting%20Weights%20Light%20Skin%20Tone.png" width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20activities/Person%20Lifting%20Weights%20Dark%20Skin%20Tone.png" width="24" />
   Treino & Saúde
 </h3>
 <p align="center">
